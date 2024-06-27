@@ -11,7 +11,7 @@ export function printAge(age){
      * this method will print the last name
      * @param {String} lastName 
      */ 
-     // your can provide a certain description to the method in this section and can write what data type we expect
+     // you can provide a certain description to the method in this section and can write what data type we expect
     printLastName(lastName){
         console.log(lastName)
     }
