@@ -24,7 +24,6 @@
  console.log(age == isHeMarried)
 
 
-console.log("--------------------")
 
 // example 2 
 
@@ -34,7 +33,6 @@ console.log(result)
 var result2= 5 >= 5 // true
 console.log(result2)
 
-console.log("--------------------")
 
 // equality operators
 
